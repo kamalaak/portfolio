@@ -19,3 +19,6 @@
     .pad{
       background-color: #d87f1f;
     }
+    *{
+        font-family: sans-serif;
+    }
